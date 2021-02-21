@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>BaeldungSamples</name>
+   <name>Baeldung_example</name>
    <tag></tag>
    <comment></comment>
    <testCaseGuid>0dd9d202-e286-4364-a6db-34b41361263d</testCaseGuid>
