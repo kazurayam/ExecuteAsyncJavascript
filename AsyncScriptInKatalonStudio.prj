@@ -6,7 +6,7 @@
    <UUID>52edb4b1-c3dc-42a6-a11e-1d634de79c23</UUID>
    <migratedVersion>5.9.0</migratedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
-   <projectFileLocation>/Users/kazuakiurayama/katalon-workspace/AsyncScriptInKatalonStudio/AsyncScriptInKatalonStudio.prj</projectFileLocation>
+   <projectFileLocation>/Users/kazuakiurayama/katalon-workspace/ExecuteAsyncJavascript/AsyncScriptInKatalonStudio.prj</projectFileLocation>
    <sourceContent>
       <sourceFolderList>
          <sourceFolderConfiguration>
